@@ -13,8 +13,6 @@ This project demonstrates an end-to-end ETL pipeline using Shopify, Fivetran, Sn
 - Shopify
 - Fivetran
 - Snowflake
-- SQL
-- Excel
 - Power BI
 
  Repository Structure
@@ -25,10 +23,9 @@ This repository will contain:
 - SQL Scripts
 - Snowflake Scripts
 - Power BI Dashboard
-- Excel Dashboard
 - Documentation
 
- Progress
+ Completed
 
 - [x] Repository Created
 - [ ] Dataset Added
